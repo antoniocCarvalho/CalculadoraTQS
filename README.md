@@ -7,7 +7,7 @@ O Projeto foi desenvolvido para solucionar calculos básicos, e testes foram rea
 Os testes foram realizados através da biblioteca Junit onde valores são inseridos atraves de duas variaveis do tipo interia A e B, que com isso é realizado o calculo escolhido pelo usuario atraves da classes das operacões (soma = SOMAR, sub = SUBTRAÇÃO, multi = MULTIPLICAÇÃO, div = DIVISÃO)
 
 
-![Funcionamento](Captura de Tela 2023-09-20 às 11.19.04.png)
+![Funcionamento](printJunit.png)
 
 ## Publicação
 [https://github.com/antoniocCarvalho/CalculadoraTQS]
