@@ -10,6 +10,5 @@ Os testes foram realizados através da biblioteca Junit onde valores são inseri
 ![Funcionamento](printJunit.png)
 
 ## Publicação
-[https://github.com/antoniocCarvalho/CalculadoraTQS]
-
+[https://github.com/antoniocCarvalho/CalculadoraTQS/tree/second]
 ## Última atualização 20/09/23
