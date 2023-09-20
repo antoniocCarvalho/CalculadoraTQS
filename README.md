@@ -1,4 +1,4 @@
-# CalculadoraTQS
+# CalculadoraTQS TRICOLOR
 
 ## Descrição
 O Projeto foi desenvolvido para solucionar calculos básicos 
